@@ -44,6 +44,3 @@ This project is a graduation research project that explores the role of **Artifi
 
 
 
-## Authors
-
-Graduation Project Team
